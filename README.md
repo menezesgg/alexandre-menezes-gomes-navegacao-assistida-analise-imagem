@@ -10,7 +10,7 @@ Auxiliar pessoas com deficiência visual na navegação e compreensão do ambien
 
 Funcionamento:
 
-Captura de Imagem: A câmera do dispositivo é utilizada para capturar imagens do ambiente em tempo real. As imagens capturadas são pré-processadas para otimizar a análise e extração de informações. O sistema utiliza um modelo de inteligência artificial de última geração para analisar as imagens e identificar objetos, pessoas, texto e outras características relevantes do ambiente. Uma descrição textual detalhada da cena é gerada com base na análise da imagem, utilizando linguagem natural e vocabulário adequado ao contexto. Desta forma a descrição textual é convertida em áudio falado, utilizando um motor de síntese de voz de alta qualidade, permitindo que o usuário ouça a descrição da cena em tempo real.
+A câmera do dispositivo é utilizada para capturar imagens do ambiente em tempo real. As imagens capturadas são pré-processadas para otimizar a análise e extração de informações. O sistema utiliza um modelo de inteligência artificial de última geração para analisar as imagens e identificar objetos, pessoas, texto e outras características relevantes do ambiente. Uma descrição textual detalhada da cena é gerada com base na análise da imagem, utilizando linguagem natural e vocabulário adequado ao contexto. Desta forma a descrição textual é convertida em áudio falado, utilizando um motor de síntese de voz de alta qualidade, permitindo que o usuário ouça a descrição da cena em tempo real.
 
 # Sistema de Auxílio para Deficientes Visuais
 
