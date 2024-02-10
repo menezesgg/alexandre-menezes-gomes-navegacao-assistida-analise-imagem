@@ -91,7 +91,7 @@ O sistema é composto por três camadas principais:
 
 ## Instruções para uso:
 1. Instale as bibliotecas necessárias (OpenCV, Tkinter, PIL, Google GenerativeAI, pyttsx3).
-2. Execute o script `app.py`.
+2. Execute o script `from pathlib import Path.py`.
 3. Permita o acesso à webcam.
 4. Clique no botão "Analisar" para capturar e analisar a imagem.
 5. A descrição da imagem será exibida na interface e lida em voz alta.
