@@ -6,7 +6,7 @@ import google.generativeai as genai
 import pyttsx3
 
 # Configurar a API do Gemini Pro Vision
-genai.configure(api_key="AIzaSyArjAYTR45v4ssRnXXl2v_puPG5FTHYxDo")
+genai.configure(api_key="CHAVE-DA-API")
 
 # Configurações do modelo Gemini Pro Vision
 generation_config = {
